@@ -56,3 +56,6 @@ function setColor(opacity) {
   content_inner.setAttribute("style", light_bg_color + dark_bg_color);
 }
 setColor(opacity);
+
+
+
