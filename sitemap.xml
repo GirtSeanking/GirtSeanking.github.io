@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://girtseanking.top/DreamWoman/index.html</loc>
+    <loc>https://girtseanking.top/2021/05/29/DreamWoman/</loc>
     
     <lastmod>2021-05-30</lastmod>
     
@@ -10,13 +10,6 @@
   
   <url>
     <loc>https://girtseanking.top/2020/10/09/post-title-with-whitespace/</loc>
-    
-    <lastmod>2021-05-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://girtseanking.top/EncryptionTool/index.html</loc>
     
     <lastmod>2021-05-29</lastmod>
     
@@ -102,6 +95,13 @@
 
   
   <url>
+    <loc>https://girtseanking.top/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://girtseanking.top/tags/%E5%8F%A5%E5%AD%90/</loc>
     <lastmod>2021-05-30</lastmod>
     <changefreq>daily</changefreq>
@@ -109,6 +109,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://girtseanking.top/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-05-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://girtseanking.top/categories/%E5%8F%A5%E5%AD%90/</loc>
