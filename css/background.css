@@ -1,13 +1,23 @@
 #web_bg {
     /* 背景图像的地址（url括号里）  */
-  background: url(/my/img/wallhaven-72e2qy.jpg);
+  /* background: url(/my/img/wallhaven-72e2qy.jpg);
   /* 背景图像不重复 */
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   /* 背景图像大小 */
-  background-size: cover;
-    /* background-color: #8EC5FC;
-    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%); */
+  /* background-size: cover;  */
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
 }
+
+#full_page {
+/* 背景图像的地址（url括号里）  */
+background: url(/my/img/wallhaven-72e2qy.jpg);
+/* 背景图像不重复 */
+background-repeat: no-repeat;
+/* 背景图像大小 */
+background-size: cover;
+}
+
   /* 文章页背景 */
 .layout_post>#post {
     /* 以下代表白色透明度为0.3 */
