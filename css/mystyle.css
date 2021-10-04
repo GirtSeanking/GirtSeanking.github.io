@@ -33,25 +33,7 @@
     background-color: #49b1f5;
   }
 
-  #aside_content
-.card-archives
-ul.card-archive-list
-> .card-archive-list-item
-a
-span:first-child,
-#aside_content
-.card-categories
-ul.card-category-list
-> .card-category-list-item
-a
-span:first-child {
-    width: auto;
-    min-width: 50%;
-}
-
-#aside_content .card-widget,#recent-posts>.recent-post-item,.layout_page>div:first-child:not(.recent-posts),.layout_post>#page,.layout_post>#post,.read-mode .layout_post>#post {
-    background: var(--light_bg_color)
-}
+/* end */
 
 [data-theme=dark] #nav,[data-theme=dark] .layout_page>div:first-child:not(.recent-posts),[data-theme=dark] .layout_post>#post {
     background-color: var(--dark_bg_color)
@@ -116,11 +98,18 @@ span:first-child {
 }
 #footer:before {
     background-color: rgba(0, 0, 0, 0);
-} */ 
+}  */
+/* end */
 
+/* 取消页脚背景 */
 #footer {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.3);
+  background: none;
+}
+
+/* 取消banner背景 */
+#page-header {
+  /* 采用透明的方式取消，最后一个0表示透明 */
+  background-color: rgba(255, 255, 255, 0);
 }
 
 span.inline-tag {
