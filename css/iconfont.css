@@ -1,0 +1,178 @@
+@font-face {
+  font-family: "girtseanking"; /* Project id 2841034 */
+  src: url('//at.alicdn.com/t/font_2841034_xq27alwkft.woff2?t=1633433216896') format('woff2'),
+       url('//at.alicdn.com/t/font_2841034_xq27alwkft.woff?t=1633433216896') format('woff'),
+       url('//at.alicdn.com/t/font_2841034_xq27alwkft.ttf?t=1633433216896') format('truetype');
+}
+
+.girtseanking {
+  font-family: "girtseanking" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.girt-youtube:before {
+  content: "\e8c3";
+}
+
+.girt-facebook:before {
+  content: "\e735";
+}
+
+.girt-twitter:before {
+  content: "\e61a";
+}
+
+.girt-qq:before {
+  content: "\e6fd";
+}
+
+.girt-pixel-heart:before {
+  content: "\ed19";
+}
+
+.girt-xiangsu_xiaoya:before {
+  content: "\ed1a";
+}
+
+.girt-xiangsu_biaoqing:before {
+  content: "\ed1b";
+}
+
+.girt-xiangsu_meiguihua:before {
+  content: "\ed1c";
+}
+
+.girt-xiangsu_tangguo:before {
+  content: "\ed1d";
+}
+
+.girt-xiangsu_xianrenzhang:before {
+  content: "\ed1e";
+}
+
+.girt-xiangsu_caomei:before {
+  content: "\ed1f";
+}
+
+.girt-xiangsu_tuzi:before {
+  content: "\ed20";
+}
+
+.girt-xiangsu_qizhi:before {
+  content: "\ed21";
+}
+
+.girt-xiangsu_wuqi:before {
+  content: "\ed22";
+}
+
+.girt-xiangsu_xigua:before {
+  content: "\ed23";
+}
+
+.girt-xiangsu_jiangbei:before {
+  content: "\ed24";
+}
+
+.girt-xiangsu_yaoshui:before {
+  content: "\ed25";
+}
+
+.girt-xiangsu_fangzi:before {
+  content: "\ed26";
+}
+
+.girt-xiangsu_youxiji:before {
+  content: "\ed27";
+}
+
+.girt-xiangsu_jinbi:before {
+  content: "\ed28";
+}
+
+.girt-xiangsu_shu:before {
+  content: "\ed29";
+}
+
+.girt-xiangsu_mao:before {
+  content: "\ed2a";
+}
+
+.girt-xiangsu_zuanshi:before {
+  content: "\ed2b";
+}
+
+.girt-xiangsu_pijiu:before {
+  content: "\ed2c";
+}
+
+.girt-email:before {
+  content: "\e62c";
+}
+
+.girt-bilibili:before {
+  content: "\e6b4";
+}
+
+.girt-QQ:before {
+  content: "\e882";
+}
+
+.girt-csdn:before {
+  content: "\e605";
+}
+
+.girt-github:before {
+  content: "\e604";
+}
+
+.girt-manage:before {
+  content: "\e600";
+}
+
+.girt-link:before {
+  content: "\e601";
+}
+
+.girt-movies:before {
+  content: "\e602";
+}
+
+.girt-images:before {
+  content: "\ec6f";
+}
+
+.girt-games:before {
+  content: "\e633";
+}
+
+.girt-tags:before {
+  content: "\e603";
+}
+
+.girt-music:before {
+  content: "\e62d";
+}
+
+.girt-message:before {
+  content: "\e795";
+}
+
+.girt-archive:before {
+  content: "\e85c";
+}
+
+.girt-book:before {
+  content: "\e6b7";
+}
+
+.girt-home:before {
+  content: "\e615";
+}
+
+.card_icon {
+  font-size: 24px;
+}
